@@ -1,0 +1,29 @@
+body{
+    background-color: #F2F2F2;
+    padding: 0;
+    margin: 0;
+    font-family: Roboto,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#nav{
+    height: 64px;
+    width: 100%;
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+.links a{
+    text-decoration: none;
+    color: #000000;
+    margin-left: 35px;
+}
+.links-right{
+    float: right;
+}
+
+#p7{
+    font-weight: bold;
+    font-size: 35px;
+
+}

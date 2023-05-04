@@ -1,2 +1,3 @@
 2023-03-28 - Skrivning på projektplan.
 2023-04-14 - Wireframe påbörjad och forskning om olika JS libraries.
+2023-05-04 - Navbar, och styling till den snart färdig
