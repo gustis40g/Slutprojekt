@@ -2,3 +2,5 @@
 2023-04-14 - Wireframe påbörjad och forskning om olika JS libraries.
 2023-05-04 - Navbar, och styling till den snart färdig.
 2023-05-05 - Dark/ lightmode knapp tillagd och navbar färdiggjort.
+2023-05-23 - Facebook embed, javascript och css förbättrad, alla HTML grundmässigt färdiga.
+2023-06-02 - Facebook embed omgjord, javascript darkmode knapp omgjord, css förbättrad. HTML siderna omgjorda.

@@ -81,3 +81,12 @@ $('.switch3 input[type="checkbox"]').on('change', handleSwitchChange);
 
 // Update the switch state when the page loads
 updateSwitchState();
+
+$(document).ready(function() {
+  $('.slideshow').slick({
+    dots: true,  // Display navigation dots
+    arrows: true,  // Display navigation arrows
+    autoplay: true,  // Enable autoplay
+    autoplaySpeed: 2000  // Set autoplay speed in milliseconds
+  });
+});
